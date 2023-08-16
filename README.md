@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thorsson&label=Profile%20views&color=0e75b6&style=plastic" alt="mini-pingu" /> </p>
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=thorsson&count_private=true&private=true&show_icons=true&theme=vue-dark&bg_color=0,243848,34495E,2B3842&hide=contribs">
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=thorsson&count_private=true&private=true&include_all_commits=true&show_icons=true&theme=vue-dark&bg_color=0,243848,34495E,2B3842&hide=contribs">
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thorsson&theme=vue-dark&layout=compact&bg_color=0,243848,34495E,2B3842&private=true">
 <br></br>
 </a>
